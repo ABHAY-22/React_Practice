@@ -1,0 +1,12 @@
+●  What is Emmet? 
+
+Emmet is built in feature in Visual Studio Code .Emmet prevents you writing the entire Code by yourself by providing Emmet abbreviation.
+It is enabled by default .
+
+●  Difference between a Library and Framework? 
+●  What is CDN? Why do we use it? 
+●  Why is React known as React? 
+●  What is crossorigin in script tag? 
+●  What is diference between React and ReactDOM 
+●  What is difference between react.development.js and react.production.js files via CDN? 
+●  What is async and defer? 
