@@ -1,0 +1,23 @@
+{
+  "name": "react_practice",
+  "version": "1.0.0",
+  "description": "this is abhay react by abhay Khare",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ABHAY-22/React_Practice.git"
+  },
+  "keywords": [],
+  "author": "Abhay Khare",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -26,9 +26,14 @@
 
 */
 
+
+import React from "react";
+
+import  ReactDOM  from "react-dom/client";
+
 const parent =React.createElement("div",{id:"parent"},
 [React.createElement("div",{id:"child"},
-[React.createElement("h1",{id:"heading"},"I am abhay from tundla"),
+[React.createElement("h1",{id:"heading"},"I am lallu frm abhalalajd 🔠 "),
 React.createElement("h2",{id:"head"},"I am abhay from Noida")
 ]),
 
@@ -48,7 +53,6 @@ root.render(parent)
 console.log(parent)
 
 //JSX
-
 
 
 

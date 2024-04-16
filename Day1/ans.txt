@@ -4,9 +4,63 @@ Emmet is built in feature in Visual Studio Code .Emmet prevents you writing the 
 It is enabled by default .
 
 ●  Difference between a Library and Framework? 
+
+Library--It performs a set of specific and well defined operations.Examples
+Network protocols,compression,image manipulation,string utilities,
+Libraries typically focus on a narrow scope 
+
+Framework--It is known to be skeleton where the application defines the content of the operation
+by fillling out the skeleton.
+It has a wider scope and includes almost everything necessary to make a user application as per his own needs
+
+inversion of control
+IOC--When we call a method from a library, we are in control .But on framework the framework call us
 ●  What is CDN? Why do we use it? 
+it stands for content delivery network
+it is a network that helps to speed up web page loading for web users.It is spread all over the world
+as usage of internet is everywhere.
+uses   
+
+Improved performance, scalability,reliability and redundancy  ,bandwidth savings and security
 ●  Why is React known as React? 
+
+React is named react because of its main concept it reacts to changes in data.
+the core concept behind react is the concept of virtual DOM
+when data changes in react application instead of directly manipulating the DOM, react creates a virtual 
+representaion of DOM in memory, compares it with the previous state,and then calculates the most efficient way to update the DOM
+The name react refelects the reactive nature of the framework
+
 ●  What is crossorigin in script tag? 
+The crossorigin attribute in a script tag is used to specify how the browser should handle requests
+made to load the script from a different origin  than the one hosting the current web page.
+it is used for security purpose
+
+3 possible cross origin attribute
+anonymous--default value  crossorigin="anonymous"
+
+use credentials  
+
+3.empty string or absent--it will handle the request according to the CORS 
+
+
 ●  What is diference between React and ReactDOM 
+
+react is a library for building user interfaces, while reactDOM is the package responsible for rendering react components
+into the DOM and managing interactions with THE DOM .they work together to enable the creation of dynamic and interactive user interfaces on the web.
+
+
 ●  What is difference between react.development.js and react.production.js files via CDN? 
+
+The file is intended for use during development.it conatins additional debugging information,error💆
+and warnings that can be helpful for developers
+it is large compared tom prod one
+
+Prod file is optimized .It does not include the extra debugging information and warnings 
+
+
 ●  What is async and defer? 
+
+They both are attributes used to control the loading and execution of scripts in HTML documents
+
+with async executing scipts asynchronously as soon as they are avilable and defer executing scripts after the HTML documents
+has been fully parsed before the DOMContent Loaded event is fired
