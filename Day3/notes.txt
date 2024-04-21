@@ -28,7 +28,9 @@ prod bundles takes more time
 
 
 
-
+ npx parcel build .\index.html
 
 
 npm install -D parcel@latest
+
+
