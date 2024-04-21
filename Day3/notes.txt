@@ -1,0 +1,34 @@
+#parcel  
+
+Dev build
+local 🌄
+HMR--Hot module replacement
+
+File watching algorithm written in C++
+
+Parcel is caching things for you
+
+Prcel is beast  
+
+Image optimization  
+Bundling
+compressng
+
+consistent hashing  
+code splitting
+difffrential Bundling--to support older broswers well
+Diagnostic
+Error handling
+it give a way or feature to hold https 
+
+Treeshaking--remove unused code for you
+Different dev and prod bundles
+
+prod bundles takes more time
+
+
+
+
+
+
+npm install -D parcel@latest
