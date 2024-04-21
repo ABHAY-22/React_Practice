@@ -1,0 +1,27 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "this is react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABHAY-22/React_Practice.git"
+  },
+  "author": "abhay khare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABHAY-22/React_Practice/issues"
+  },
+  "homepage": "https://github.com/ABHAY-22/React_Practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
